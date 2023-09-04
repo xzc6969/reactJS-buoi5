@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Văn A",
+        "phone": "09381111111",
+        "email": "nguyenvana@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Văn B",
+        "phone": "093822232232",
+        "email": "nguyenvanb@gmail.com"
+    }
+]
